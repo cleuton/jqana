@@ -1,6 +1,8 @@
 jqana
 =====
 
+**NOTICE** This repo will be refactored! The componnet is no longer working and is going under maintenance. 
+
 Java source code Quality Analyzer
 
 About jQana
