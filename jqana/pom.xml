@@ -30,7 +30,7 @@
 	  <maven-plugin-api.version>2.0</maven-plugin-api.version>
 	  <maven-plugin-annotations.version>3.2</maven-plugin-annotations.version>
 	  <plexus-utils.version>3.0.8</plexus-utils.version>
-	  <junit.version>4.8.2</junit.version>
+	  <junit.version>4.13.1</junit.version>
 	  <antlr4-runtime.version>4.1</antlr4-runtime.version>
 	  <commons-lang.version>2.6</commons-lang.version>
 	  <commons-io.version>20030203.000550</commons-io.version>
